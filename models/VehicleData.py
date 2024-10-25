@@ -1,7 +1,7 @@
-# vehicle_data.py
+# VehicleData.py
 from typing import List, Dict
 from dataclasses import dataclass, field
-from .image_info import ImageInfo
+from .ImageInfo import ImageInfo
 
 @dataclass
 class VehicleData:

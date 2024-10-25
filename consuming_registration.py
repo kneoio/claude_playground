@@ -4,7 +4,6 @@ import anthropic
 import os
 import requests
 import logging
-import random
 from dotenv import load_dotenv
 from models import VehicleData
 from PIL import Image

@@ -1,4 +1,4 @@
-# image_info.py
+# ImageInfo.py
 from typing import Dict
 from dataclasses import dataclass
 
